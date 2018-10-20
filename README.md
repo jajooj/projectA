@@ -1,2 +1,1 @@
-# projectA
-Project A
+# projecta's README
